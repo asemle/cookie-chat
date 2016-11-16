@@ -9,6 +9,11 @@ body {
   font-family: sans-serif;
 }
 
+header {
+  height: 35vh;
+  background: url(https://www.signs.com/blog/wp-content/uploads/2015/02/devmountain-cahlan-teaching-560x746.jpg) no-repeat center;
+  background-size: cover;
+}
 .main-container {
   width: 75%;
   margin: 10px auto;
@@ -30,4 +35,8 @@ p{
   text-align: center;
   margin: 3px 0;
   font-size: 17px;
+}
+
+.message {
+  text-align: center;
 }
